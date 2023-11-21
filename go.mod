@@ -1,3 +1,3 @@
-module github.com/Vadim-vep/puppy
+module github.com/vadim-vep/puppy
 
 go 1.21.4
